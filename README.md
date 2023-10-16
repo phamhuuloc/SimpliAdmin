@@ -23,25 +23,5 @@ To run SimpliAdmin on your local machine, follow these simple steps:
 5. Start the application in development mode: `npm run dev`
 6. Access the app in your browser at `http://localhost:3000`
 
-## Links
 
-- Live Site: [SimpliAdmin Live](https://simpliadmin.onrender.com)
-- GitHub Repository: [SimpliAdmin GitHub](https://github.com/bkpecho/SimpliAdmin)
 
-## Technologies Used
-
-- Node.js
-- Express
-- MongoDB
-- EJS (Embedded JavaScript)
-- Bootstrap
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Author
-
-- GitHub - [Bryan King Pecho](https://www.github.com/bkpecho)
-- Twitter - [@bkpecho](https://www.twitter.com/bkpecho)
-- LinkedIn - [in/bkpecho](https://www.linkedin.com/in/bkpecho/)
